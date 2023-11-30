@@ -136,3 +136,10 @@ aws budgets create-budget \
     --budget file://aws/json/budget.json \
     --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
 ```
+
+## Git Commands
+```sh
+ - git tag week1
+ - git push --tags
+```
+
